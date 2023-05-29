@@ -9,11 +9,11 @@
   align="right"
   width="400"
   src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"
-  alt="nishant_thapa21"
+  alt="sohitdeveloper"
 />
 :mailbox: Reach me out!  
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishantthapa21/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nishant_thapa21)](https://twitter.com/nishant_thapa21)  [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=icloud&logoColor=white)](mailto:nishantthapa@icloud.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohit-kumar-%F0%9F%87%AE%F0%9F%87%B3-842bb518a/) [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=icloud&logoColor=white)](mailto:sohit.developer@gmail.com)
 
 
 - :computer: I’m currently learning **AWS, Devops, Cloud**
