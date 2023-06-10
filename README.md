@@ -17,7 +17,7 @@
 
 
 - :computer: I’m currently learning **AWS, Devops, Cloud**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, React Native Node, PostgreSql**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, React Native, Node, PostgreSql**
 - ⚡ Fun fact **`jack of all trades`**    
   </br>
 <p align="left">
