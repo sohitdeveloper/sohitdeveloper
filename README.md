@@ -16,8 +16,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohit-kumar-%F0%9F%87%AE%F0%9F%87%B3-842bb518a/) [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=icloud&logoColor=white)](mailto:sohit.developer@gmail.com)
 
 
-- :computer: I’m currently learning **AWS, Devops, Cloud**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, React Native, Node, PostgreSql**
+- :computer: I’m currently learning **AWS, DevOps, Cloud**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, React, Node, SpringBoot PostgreSQL, MongoDB**
 - ⚡ Fun fact **`jack of all trades`**    
   </br>
 <p align="left">
