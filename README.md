@@ -364,3 +364,5 @@
 </p>
 </br>
 </br>
+
+| ![Sohit's github stats](https://github-readme-stats.vercel.app/api?username=sohitdeveloper&show_icons=true&theme=tokyonight) | ![Sohit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohitdeveloper&theme=tokyonight) |
