@@ -364,5 +364,7 @@
 </p>
 </br>
 </br>
+</br>
 
-| ![Sohit's github stats](https://github-readme-stats.vercel.app/api?username=sohitdeveloper&show_icons=true&theme=tokyonight) | ![Sohit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohitdeveloper&theme=tokyonight) |
+ ![Sohit's github stats](https://github-readme-stats.vercel.app/api?username=sohitdeveloper&show_icons=true&theme=tokyonight)  ![Sohit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohitdeveloper&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohitdeveloper&theme=tokyonight)
