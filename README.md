@@ -366,6 +366,18 @@
 </br>
 </br>
 
+#### Github's Activity Graph
+
 | ![Sohit's github stats](https://github-readme-stats.vercel.app/api?username=sohitdeveloper&show_icons=true&theme=buefy) | ![Sohit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohitdeveloper&theme=buefy)
 | --- | --- |
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohitdeveloper&theme=buefy)
+
+#### Top Repositories
+
+<a href="https://github.com/sohitdeveloper/Fundamentals-of-Devops">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sohitdeveloper&repo=Fundamentals-of-Devops&theme=buefy" />
+</a>
+
+<a href="https://github.com/sohitdeveloper/docker-todo-app-react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sohitdeveloper&repo=docker-todo-app-react&theme=buefy" />
+</a>
