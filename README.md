@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sohit Kumar</h1>
 <h3 align="center">
-  Software Engineer | Javascript developer specialising in React | Full Stack “MERN”
+  Software Engineer | Devops Engineer | Javascript developer specialising in React | Full Stack “MERN”
 </h3>
 </br>
 </br>
